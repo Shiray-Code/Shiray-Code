@@ -14,7 +14,7 @@
 - :computer: Manejo en nivel medio y avanzado los siguientes leguajes de  `Python`, `Java`, `Java Script`, `Visual Basic`, `HTML`.
 - :student: Actualmente estoy estudiando `Python`, `SQL` and `Power BI`.
 - :nerd_face: Entusiasta del `Aprendizaje constante`.
-- :thinking: Me encuentro buscando `Oportunidades de Trabajo`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: Me encuentro buscando `Oportunidades de Trabajo`, this is [MY RESUME](file:///C:/Users/KevinDanielShirayVer/OneDrive%20-%20INPROLEC%20S.A/Documentos/CV%20Kevin%20Shiray-Ing.%20Civil%20Industrial.pdf).
 <br>
 
 
