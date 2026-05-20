@@ -110,7 +110,7 @@
 	<a href="https://github.com/Shiray-Code/Automatizacion-Ordenes-De-Pago">
       		<img src="https://img.shields.io/badge/github-AutomatizaciónOrdenesPago-blue?logo=github" />
  <p align="center">
-	<a href="https://github.com/Shiray-Code/Automatizacion-Ordenes-De-Pago">
+	<a href="https://github.com/Shiray-Code/Proyecto+Personal+95%">
       		<img src="https://img.shields.io/badge/github-AutomatizaciónOrdenesPago-yellow?logo=github" />
   </p>
 </div>
