@@ -111,7 +111,7 @@
       		<img src="https://img.shields.io/badge/github-AutomatizaciónOrdenesPago-blue?logo=github" />
  <p align="center">
 	<a href="https://github.com/Shiray-Code/Proyecto-Personal-Compilado-Loot-y-Dashboard">
-      		<img src="https://img.shields.io/badge/github-ProyectoPersonal-yellow?logo=github" />
+      		<img src="https://img.shields.io/badge/github-AutomazaciónLootDatayPowerBIDashboard-yellow?logo=github" />
   </p>
 </div>
 </details>
